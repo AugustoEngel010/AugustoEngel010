@@ -60,8 +60,6 @@ O projeto inclui execução local com Docker, API de demonstração para simular
 
 Tenho aprofundado meus estudos em **Domain-Driven Design**, **Arquitetura Hexagonal** e **inteligência artificial aplicada ao backend com Spring AI e LLMs**.
 
-Também venho aplicando **Spec-Driven Development** com a skill `tlc-spec-driven`, do **Tech Leads Club**, para conectar requisitos, decisões e testes, com mais governança e rastreabilidade.
-
 ## Atividade profissional
 
 Este perfil reúne meus projetos pessoais e estudos. Minhas contribuições profissionais ficam na conta **[@augusto-engel](https://github.com/augusto-engel)**.
